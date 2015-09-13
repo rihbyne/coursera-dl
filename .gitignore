@@ -15,3 +15,9 @@ venv2
 venv3
 .idea
 .python-version
+
+# coursera-dl dependencies
+bin/
+include/
+lib/
+local/
